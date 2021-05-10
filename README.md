@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zetta-Muhammad-Firghili
+- 👀 I’m interested in Machine Learning, Web Development, Angular, NodeJs
+- 🌱 I’m currently learning Angular, Deep Learning, AWS
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me muhammad.firghili@zettabyte.sg
